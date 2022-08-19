@@ -1,0 +1,15 @@
+.container {
+    height: 50px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    height: 30px;
+    width: 50px;
+    border: 1px solid teal;
+    border-radius: 15px;
+    margin-right: 5px;
+    cursor: pointer;
+}
